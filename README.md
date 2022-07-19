@@ -19,3 +19,7 @@ It should be noted that above 1973 paper also found Sarcina litoralis, Micrococc
 ***Farlow WG. Chapter XLIV. On the nature of the peculiar reddening of salted codfish during the summer time (as observed more particularly at Gloucester, Mass., during the summer of 1878). In: Report of the Commissioner - United States Commission of Fish and Fisheries [Internet]. 1880. p. 969–74. Available from: https://www.google.com/books/edition/Report_of_the_Commissioner_United_States/0IkYAAAAYAAJ?hl=en&gbpv=0***
 
 
+If this note was useful for you, please cite:
+
+[![DOI](https://zenodo.org/badge/514802056.svg)](https://zenodo.org/badge/latestdoi/514802056)
+
