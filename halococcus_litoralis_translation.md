@@ -1,6 +1,6 @@
 ***Schoop, G. Halococcus litoralis, ein obligat halphiler Farbstoffbildner. Deutsche Tierärztliche Wochenschrift. 1935;43:817–20.***
 
-***Schoop, G. Halococcus litoralis, an obligate halophilic colorant. German veterinary weekly. 1935;43:817-20.***
+##Schoop, G. Halococcus litoralis, an obligate halophilic colorant. German veterinary weekly. 1935;43:817-20.##
 
 
 In the months of June, July, August, large quantities of salted fish are often coated with a red color in the salt and clipfish industry.
